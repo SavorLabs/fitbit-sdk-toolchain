@@ -59,7 +59,7 @@
     "@babel/core": "^7.4.0",
     "@babel/plugin-syntax-dynamic-import": "^7.2.0",
     "@babel/plugin-transform-block-scoped-functions": "^7.2.0",
-    "@babel/plugin-transform-block-scoping": "^7.2.0",
+    "@babel/plugin-transform-block-scoping": "^7.4.0",
     "@fitbit-sdk/companion-gettext": "^3.0.0",
     "@fitbit/bison-i18n": "^1.0.0",
     "@fitbit/image-codec-txi": "^1.1.2",
