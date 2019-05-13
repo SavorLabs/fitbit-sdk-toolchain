@@ -101,7 +101,7 @@
     "vinyl": "^2.2.0",
     "vinyl-buffer": "^1.0.1",
     "vinyl-fs": "^3.0.3",
-    "yargs": "^13.2.1"
+    "yargs": "13.2.2"
   },
   "bin": {
     "fitbit-build": "./bin/fitbit-build.js"
